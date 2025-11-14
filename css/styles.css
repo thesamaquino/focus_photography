@@ -1,0 +1,45 @@
+header {  
+    background-color: #004C58;  
+    color: #fff;  
+    padding: 20px;  
+    text-align: center;  
+}
+                
+
+nav ul {  
+    list-style: none;  
+    padding: 0;  
+    margin: 10px 0 0 0;  
+    display: flex;  
+    justify-content: center;  
+}
+
+nav ul li {  
+    margin: 0 15px;  
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {  
+    font-family: 'Arial Black', sans-serif;  
+}
+
+h1 {  
+    font-size: 2.5em;  
+} 
+
+h2 {  
+    font-size: 2em;  
+    margin-bottom: 10px;  
+}
+
+h3 {  
+    font-size: 1.5em;  
+}
+
+a{
+  color: #F8FFFF;
+}
+
+header a{
+  text-decoration: none;
+}
